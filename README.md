@@ -2,8 +2,8 @@
 **此脚本用于让网站快速被百度收录(但不能保证100%成功)**  
 使用方法:  
 进入百度资源平台 [点击进入][1] 登陆并且添加站点 
- 然后选择`普通提交` 选择`curl提交`
-把那段`curl -H`开头的命令复制下来
+ 然后选择`普通提交` 选择`curl提交`  
+把那段`curl -H`开头的命令复制下来  
 在Linux服务器上执行
 
     git clone https://github.com/jrcloud-blog/baidu-site-fast.git
